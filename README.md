@@ -28,9 +28,9 @@ C# · Unity · UI design · RTS / city-management systems · complex gameplay lo
 
 Built during a game jam, so some upgrades and building types were left unfinished due to time constraints. Planned next steps: finishing those systems and adding more resources to collect so the colony always has something to do.
 
-## Screenshots
+## Trailer
 
-_Coming soon._
+▶ **[Watch the trailer](media/trailer.mp4)** (plays in GitHub's file viewer), or [play the game on itch.io](https://cecixp.itch.io/busy-beaks).
 
 ---
 
