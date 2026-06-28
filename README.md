@@ -30,7 +30,9 @@ Built during a game jam, so some upgrades and building types were left unfinishe
 
 ## Trailer
 
-▶ **[Watch the trailer](media/trailer.mp4)** (plays in GitHub's file viewer), or [play the game on itch.io](https://cecixp.itch.io/busy-beaks).
+https://github.com/user-attachments/assets/41a30930-46f5-4a74-adc4-61a2e4523c0c
+
+Or [play the game on itch.io](https://cecixp.itch.io/busy-beaks).
 
 ---
 
